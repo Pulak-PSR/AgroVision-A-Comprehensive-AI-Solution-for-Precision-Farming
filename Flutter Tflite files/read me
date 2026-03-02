@@ -1,0 +1,1 @@
+In the context of the AgroVision app, the TensorFlow Lite (TFLite) file acts as the "brain" of the mobile application, enabling it to perform complex machine learning tasks directly on the user's device.
