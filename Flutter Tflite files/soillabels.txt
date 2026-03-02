@@ -1,0 +1,8 @@
+0 Black Soil
+7 Yellow Soil
+6 Silt
+1 Cinder Soil
+2 Gravel
+3 Laterite Soil
+4 Peat Soil
+5 Sand

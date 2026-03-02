@@ -1,0 +1,5 @@
+0 Yellow Rust
+1 Septoria
+2 Mildew
+3 Healthy
+4 Brown Rust
